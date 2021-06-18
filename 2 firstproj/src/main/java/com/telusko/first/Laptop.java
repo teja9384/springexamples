@@ -7,7 +7,7 @@ public class Laptop {
 
 	public void compile() {
 		System.out.println("Compiling.......");
-		
+	   System.out.println("Maxima");
 	}
 
 }
